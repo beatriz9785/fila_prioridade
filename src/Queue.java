@@ -4,7 +4,7 @@ public class Queue {
         priorityQueue.enqueueWithPriority(13,5);
         priorityQueue.enqueueWithPriority(7,2);
         priorityQueue.enqueueWithPriority(0,0);
-        priorityQueue.enqueueWithPriority(27,3);
+        priorityQueue.enqueueWithPriority(35,3);
         priorityQueue.enqueueWithPriority(10,11);
         priorityQueue.enqueueWithPriority(6,24);
 

@@ -47,8 +47,8 @@ public class PriorityQueue<Item> implements Iterable<Item> {
                 last=x;
             }
             else{
-                last.next=x;
-                last=x;
+                last.next = x;
+                last = x;
             }
             i++;
         }
