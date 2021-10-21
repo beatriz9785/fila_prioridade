@@ -6,7 +6,7 @@ public class Queue {
         priorityQueue.enqueueWithPriority(0,0);
         priorityQueue.enqueueWithPriority(35,3);
         priorityQueue.enqueueWithPriority(10,11);
-        priorityQueue.enqueueWithPriority(6,24);
+        priorityQueue.enqueueWithPriority(8,24);
 
         //Array to string
         priorityQueue.a();

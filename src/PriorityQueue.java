@@ -43,7 +43,7 @@ public class PriorityQueue<Item> implements Iterable<Item> {
             Node x= new Node();
             x.item=items[i];
             if(isEmpty()){
-                first=x;
+                first = x;
                 last=x;
             }
             else{
